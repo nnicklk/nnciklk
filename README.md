@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="100%" src="./banner.png" alt="Nycole — between logic and imagination" />
+  <img width="100%" src="./banner.png" alt="Nick — between logic and imagination" />
 </p>
 
 <p align="center">
